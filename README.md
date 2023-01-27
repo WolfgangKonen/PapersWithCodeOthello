@@ -2,7 +2,7 @@
  
 This document describes how to exactly reproduce the experiments in [Scheier2022]
 
-[Scheier2022] Scheiermann, Johannes; Konen, Wolfgang: „AlphaZero-Inspired Game Learning: Faster Training by Using MCTS Only at Test Time”, IEEE Transactions on Games, 2022,  [https://dx.doi.org/10.1109/TG.2022.3206733](doi:10.1109/TG.2022.3206733), preprint available at [https://arxiv.org/abs/2204.13307](https://arxiv.org/abs/2204.13307).
+[Scheier2022] Scheiermann, Johannes; Konen, Wolfgang: „AlphaZero-Inspired Game Learning: Faster Training by Using MCTS Only at Test Time”, IEEE Transactions on Games, 2022,  [doi:10.1109/TG.2022.3206733](https://dx.doi.org/10.1109/TG.2022.3206733), preprint available at [https://arxiv.org/abs/2204.13307](https://arxiv.org/abs/2204.13307).
 
 ## Preliminaries
 Download GBG from [https://github.com/WolfgangKonen/GBG](https://github.com/WolfgangKonen/GBG), start or compile it according to [https://github.com/WolfgangKonen/GBG/wiki/Install-and-Configure](https://github.com/WolfgangKonen/GBG/wiki/Install-and-Configure) 
