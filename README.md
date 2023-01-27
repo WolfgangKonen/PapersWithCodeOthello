@@ -17,5 +17,5 @@ Syntax:
 For more information on `GBGBatch`, see the extensive Javadoc in `GBGBatch.java`.
 
 ## Experiments
-For more information on the shell scripts found in [experiments/Othello/](experiments/Othello/), see [Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf).
+For more information on the shell scripts found in [experiments/Othello/](experiments/Othello/), see **[Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf)**.
 
