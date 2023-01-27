@@ -16,5 +16,6 @@ Syntax:
 `propsName` codes the properties file name. If not given, it defaults to `props_batch.txt`.
 For more information on `GBGBatch`, see the extensive Javadoc in `GBGBatch.java`.
 
+## Experiments
 For more information on the shell scripts found in [experiments/](experiments/), see [Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf).
 
