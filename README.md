@@ -23,7 +23,7 @@ The following files are included for reference in this repository, but they shou
 *	src/starters/GBGBatch.java
 *	resources/R_plotTools/*.R
 
-To run the visualization scripts in [R_plotTools/](resources/R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
+All scripts *.sh should be run from the GBG distribution. To run the visualization scripts in [R_plotTools/](resources/R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
 
 ## Experiments
 For more information on the shell scripts found in [experiments/Othello/](experiments/Othello/), see **[Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf)**.
