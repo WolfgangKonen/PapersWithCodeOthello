@@ -19,10 +19,9 @@ For more information on `GBGBatch`, see the extensive Javadoc in [GBGBatch.java]
 The following files are included for reference in this repository, but they should be normally present within the indicated directories in the actual GBG distribution from GitHub as well:
 
 *	experiments/Othello/experim*.sh
-*	experiments/RubiksCube/experim*.sh
 *	src/starters/props_batch.txt
 *	src/starters/GBGBatch.java
-*	resources/ R_plotTools/*.R
+*	resources/R_plotTools/*.R
 
 To run the visualization scripts in [R_plotTools/](resources/R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
 
