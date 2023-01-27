@@ -13,8 +13,8 @@ Syntax:
 
    `GBGBatch gameName n agentFile [ nruns maxGameNum csvFile scaPar0 scaPar1 scaPar2 propsName ]`
 
-`propsName` codes the properties file name. If not given, it defaults to `props_batch.txt`.
-For more information on `GBGBatch`, see the extensive Javadoc in `GBGBatch.java`.
+`propsName` codes the properties file name. If not given, it defaults to [props_batch.txt](src/starters/props_batch.txt).
+For more information on `GBGBatch`, see the extensive Javadoc in [GBGBatch.java](src/starters/GBGBatch.java).
 
 The following files are included for reference in this repository, but they should be normally present within the indicated directories in the actual GBG distribution from GitHub as well:
 
@@ -24,7 +24,7 @@ The following files are included for reference in this repository, but they shou
 *	src/starters/GBGBatch.java
 *	resources/ R_plotTools/*.R
 
-To run the visualization scripts in `R_plotTools/`, you need to have [R](https://www.r-project.org/) >= 4.0 installed.
+To run the visualization scripts in [R_plotTools/](resources/ R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
 
 ## Experiments
 For more information on the shell scripts found in [experiments/Othello/](experiments/Othello/), see **[Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf)**.
