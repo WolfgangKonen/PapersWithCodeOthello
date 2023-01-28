@@ -16,15 +16,17 @@ Syntax:
 `propsName` codes the properties file name. If not given, it defaults to [props_batch.txt](src/starters/props_batch.txt).
 For more information on `GBGBatch`, see the extensive Javadoc in [GBGBatch.java](src/starters/GBGBatch.java).
 
-The following files are included for reference in this repository, but they should be normally present within the indicated directories in the actual GBG distribution from GitHub as well:
+To run the visualization scripts in [R_plotTools/](resources/R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
+
+## Experiments
+The following files are included *for reference* in this repository. They should be present within the indicated directories of the actual [GBG distribution](https://github.com/WolfgangKonen/GBG) from GitHub and they should be *started from there*:
 
 *	experiments/Othello/experim*.sh
 *	src/starters/props_batch.txt
 *	src/starters/GBGBatch.java
 *	resources/R_plotTools/*.R
 
-All scripts *.sh should be run from the GBG distribution. To run the visualization scripts in [R_plotTools/](resources/R_plotTools), you need to have [R](https://www.r-project.org/) >= 4.0 installed.
+All scripts *.sh should be run from the [GBG distribution](https://github.com/WolfgangKonen/GBG).
 
-## Experiments
 For more information on the shell scripts found in [experiments/Othello/](experiments/Othello/), see **[Papers-with-Code-Othello.pdf](Papers-with-Code-Othello.pdf)**.
 
